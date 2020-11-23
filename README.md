@@ -28,21 +28,21 @@ priority queue Q and append their sum to the same.
 10. Encode the desired file.
 
 > EXAMPLE OF HUFFMAN ENCODED TABLE-
-![pic1](pic1.PNG)
+![img1](img1.PNG)
 
 > EXAMPLE OF HUFFMAN ENCODED TEXT-
-![pic22](pic2.PNG)
+![img2](img2.PNG)
 
 ### COMPRESSION RATIO-
 ***The size of the compressed file is reduced to 52% of the original file.***
 
-![pic3](pic3.PNG)
+![img3](img3.PNG)
 
 ### DECOMPRESSION-
 1.To decode the Huffman codes, simply traverse through the tree (starting from the root) to find the character and as soon as you reach the leafnode, just print that character.
 
 > EXAMPLE OF THE DECODED TEXT-
-![pic4](pic4.PNG)
+![img4](img4.PNG)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-ita7&exclude_repo=github-readme-stats,harsh-ita7.github.io)](https://github.com/harsh-ita7/github-readme-stats)
